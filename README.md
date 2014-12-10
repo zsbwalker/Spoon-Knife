@@ -1,6 +1,6 @@
 ### Well hello there!
 
-This is a FORK from octocat's repository.
+This is FORKed from octocat's repository.
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
